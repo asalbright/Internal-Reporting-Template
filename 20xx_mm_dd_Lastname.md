@@ -20,7 +20,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 
 You can also manage the figure size by writing the `html` directly. This is shown in the snippet below.
 
-<p style="text-align:center;"><img src="figures/MCHE201board_stepperMotor.png" alt="MCHE201 Stepper Motor Hardware Setup" style="width:200px"/><strong>Figure 3: MCHE201 Breakout Inserted with Pure HTML</strong></p>
+<p style="text-align:center;"><img width="33%" src="figures/MCHE201board_stepperMotor.png" alt="MCHE201 Stepper Motor Hardware Setup"/><strong>Figure 3: MCHE201 Breakout Inserted with Pure HTML</strong></p>
 
 
 # Current Difficulties
