@@ -93,16 +93,16 @@ Some discussion of the largest technical/implementation hurdle that you currentl
 
 
 ## Future Reading
-* What types of papers are you going to look at during the next two weeks?
-* What do you hope to learn from those papers, as a whole? 
-* Does learning that address a specific gap/problem in your current work? How?
+### What types of papers are you going to look at during the next two weeks?
+### What do you hope to learn from those papers, as a whole? 
+### Does learning that address a specific gap/problem in your current work? How?
 
 
 # Plan for the next two weeks
-* What new ideas do you have? How do those fit into your research plan?
-* What are your next steps?
-* What work do you expect to have done by next report? What results to you expect?
-* Are we on schedule with respect to your GitHub Project and/or Gantt Chart?
+## What new ideas do you have? How do those fit into your research plan?
+## What are your next steps?
+## What work do you expect to have done by next report? What results to you expect?
+## Are we on schedule with respect to your GitHub Project and/or Gantt Chart?
 
 
 # Long-term planning
