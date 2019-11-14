@@ -9,4 +9,6 @@ Please create a top-level folder in your personal GitHub folder named "Internal 
 
 I will watch for the sync notification to see that you're ready for me to review. Please make the commit message for the review-ready version: "Ready for Review - Report 20xx_mm_dd". That way I don't start looking at a version that's just a draft.
 
-I will sync my comments with a commit message of "Comments for Lastname - Report 20xx_mm_dd".
+I will sync my comments with a commit message of "Comments for Lastname - Report 20xx_mm_dd". Each comment with be prepended with `> ***JV***` which will make it a block quote with my initials in bold italic. 
+
+To respond to comments, do a similar thing. Make the response(s) directly on the report `.md` file, prepending your comment(s) with `> ***YourInitials***`. Sync the response with a commit message of "Discussion Ready - Report 20xx_mm_dd".
